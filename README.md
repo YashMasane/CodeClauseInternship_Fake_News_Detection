@@ -14,7 +14,6 @@ This project aims to detect fake news articles using various machine learning cl
 - [Manual Testing](#manual-testing)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This project focuses on developing a machine learning-based fake news detection system. It leverages various classification models to analyze text data and make predictions about the authenticity of news articles.
